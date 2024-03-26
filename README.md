@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simon-sny
-- 👀 I’m interested in statistics and mathematics. Specifically, computational statistics with time series models. 
-- 🌱 I’m currently learning clustering methods for linear Gaussian state space models and monotone operator theory
+- 👀 I’m interested in statistics and mathematics. Specifically, computational statistics, time series models, and statistical machine learning methods.
+- 🌱 I’m currently learning clustering methods for linear Gaussian state space models and monotone operator theory.
 - 📫 How to reach me simon.snyman@ubc.ca
 
 <!---
